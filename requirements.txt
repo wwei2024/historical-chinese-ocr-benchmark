@@ -1,0 +1,11 @@
+numpy<2.4
+pandas
+matplotlib
+pymupdf
+pillow
+rapidfuzz
+tqdm
+paddleocr
+paddlepaddle
+pytesseract
+requests
