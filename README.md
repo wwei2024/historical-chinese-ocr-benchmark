@@ -150,8 +150,8 @@ These are example values only. Results depend on scan quality and ground truth.
 
 | Model | CER |
 |---|---:|
-| Qwen3-VL | 0.00 |
-| PaddleOCR | 0.54 |
+| Qwen3-VL | 0.05 |
+| PaddleOCR | 0.37 |
 | Tesseract | 1.64 |
 
 If Qwen output is used as ground truth, Qwen's CER should be 0.0 after identical normalization. For serious evaluation, use manually verified ground truth.
